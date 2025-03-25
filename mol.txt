@@ -1,0 +1,6 @@
+CCO
+CC(F)O
+CC(F)(F)O
+C(F)C(F)O
+C(F)C(F)(F)O 
+C(F)(F)C(F)(F)O
